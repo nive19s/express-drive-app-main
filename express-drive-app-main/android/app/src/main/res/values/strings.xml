@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SwiftTrack</string>
+    <string name="title_activity_main">SwiftTrack</string>
+    <string name="package_name">app.lovable.aecd524bd87a438aaab6338553ffd98b</string>
+    <string name="custom_url_scheme">app.lovable.aecd524bd87a438aaab6338553ffd98b</string>
+</resources>
